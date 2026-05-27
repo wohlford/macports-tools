@@ -1,0 +1,23 @@
+Name        Selected                 Options
+====        ========                 =======
+ansible     py313-ansible            none
+black       black313                 black312 black313 black314 none
+clang       mp-clang-19              mp-clang-18 mp-clang-22 none
+cython      cython313                cython312 cython313 cython314 none
+docutils    py313-docutils           py312-docutils py313-docutils py314-docutils none
+fonttools   none                     fonttools-314 none
+gcc         mp-gcc15                 mp-gcc15 none
+hatchling   py313-hatchling          py312-hatchling py313-hatchling py314-hatchling none
+llvm        mp-llvm-19               mp-llvm-18 mp-llvm-19 mp-llvm-22 none
+mpi         openmpi-clang19-fortran  openmpi-clang18-fortran openmpi-mp-fortran none
+mypy        mypy313                  mypy312 mypy313 mypy314 none
+pip         pip313                   pip3-apple pip312 pip313 none
+pip2        none                     none
+pip3        pip313                   pip3-apple pip312 pip313 none
+pygments    py313-pygments           py312-pygments py313-pygments py314-pygments none
+pytest      pytest313                pytest312 pytest313 none
+python      python313                python310 python312 python313 python314 none
+python3     python313                python310 python312 python313 python314 none
+ruby        ruby33                   ruby33 none
+sphinx      py313-sphinx             py312-sphinx py313-sphinx py314-sphinx none
+virtualenv  virtualenv313            virtualenv312 virtualenv313 none

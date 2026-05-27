@@ -1,0 +1,4 @@
+# Ad-hoc port-install debugging transcripts
+tmp.log
+tmp2.log
+*.tmp.log

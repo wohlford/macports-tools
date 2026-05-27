@@ -1,0 +1,6 @@
+Version: 2.12.5
+
+ProductName:		macOS
+ProductVersion:		26.5
+BuildVersion:		25F71
+arch: x86_64

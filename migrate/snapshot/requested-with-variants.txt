@@ -1,0 +1,208 @@
+bash -universal
+bash-completion 
+boehmgc -universal
+cabal 
+cargo-c -universal
+coreutils -universal
+diffutils -universal
+dos2unix -universal
+ffmpeg +flite+librtmp+nonfree+rav1e-universal-x11
+ffmpeg8 +flite+librtmp+nonfree+rav1e-universal-x11
+findutils -universal
+flite -universal
+gettext-runtime 
+gh 
+ghostscript +ghostpdl-universal-x11
+git +pcre+python+svn-doc-perl5_28-perl5_30-perl5_32-universal
+git-lfs 
+gmake -universal
+gnetcat -universal
+go 
+gperf -universal
+graphviz +rsvg-lua-perl-python27-tcl-universal-x11
+gstreamer1-gst-plugins-base -universal-x11
+gzip -universal
+happy 
+hashcat -universal
+hwloc -universal
+ImageMagick +graphviz+lqr+pango+rsvg+wmf-universal-x11
+inetutils -universal
+ipcalc -perl5_28-perl5_30-perl5_32
+lftp -universal
+libatomic_ops -universal
+libffi 
+libgpg-error -universal
+libheif +rav1e-debug-examples-tests-universal
+lua -universal
+lzip -universal
+mandoc -universal
+ncurses 
+netpbm -universal-x11
+nmap +pcre+ssl-universal
+nvm 
+ocrmypdf -python310-python311
+openmpi -universal
+openvpn3 +openssl-debug-universal
+p5.34-module-pluggable 
+p7zip -universal
+pcre2 
+pngcrush -universal
+port_cutleaves 
+pwgen -universal
+py-types-pyyaml 
+py310-types-pyyaml -universal
+py312-ansible 
+py312-black 
+py312-cython -universal
+py312-pip 
+py312-pytest 
+py312-types-pyyaml -universal
+py312-virtualenv 
+py313-anytree 
+py313-asn1 
+py313-attrs 
+py313-babel 
+py313-bcrypt -universal
+py313-black 
+py313-bracex 
+py313-build 
+py313-calver 
+py313-certifi 
+py313-cffi -universal
+py313-charset-normalizer 
+py313-click 
+py313-coherent.licensed 
+py313-cramjam -universal
+py313-cryptography -universal
+py313-cython -universal
+py313-deprecated 
+py313-deprecation 
+py313-distlib 
+py313-docutils 
+py313-editables 
+py313-enrich 
+py313-fido2 
+py313-filelock 
+py313-flatbuffers 
+py313-flit_core 
+py313-freetype 
+py313-hatch-fancy-pypi-readme 
+py313-hatch-vcs 
+py313-hatchling 
+py313-httplib2 
+py313-idna 
+py313-imagesize 
+py313-img2pdf 
+py313-importlib-metadata 
+py313-iniconfig 
+py313-installer 
+py313-jaraco.classes 
+py313-jaraco.context 
+py313-jaraco.functools 
+py313-jinja2 
+py313-jsonpointer 
+py313-jsonschema 
+py313-jsonschema-specifications 
+py313-keyring 
+py313-librt -universal
+py313-linkify-it-py 
+py313-lxml -universal
+py313-mako 
+py313-markdown 
+py313-markdown-it-py 
+py313-markupsafe -universal
+py313-maturin -universal
+py313-mdit-py-plugins 
+py313-mdurl 
+py313-meson 
+py313-more-itertools 
+py313-mypy -universal
+py313-mypy_extensions 
+py313-olefile 
+py313-openssl -docs
+py313-packaging 
+py313-paramiko 
+py313-parsing 
+py313-pathspec 
+py313-pdfminer 
+py313-pdm-backend 
+py313-pikepdf -universal
+py313-Pillow -universal-x11
+py313-pip 
+py313-platformdirs 
+py313-pluggy 
+py313-plyvel -universal
+py313-poetry-core 
+py313-protobuf3 
+py313-pybind11 
+py313-pycparser 
+py313-pycryptodome -universal
+py313-pygments 
+py313-pyheif -universal
+py313-pynacl -universal
+py313-pyproject_hooks 
+py313-pyscard -universal
+py313-pytest 
+py313-python-discovery 
+py313-python-snappy -universal
+py313-pytokens -universal
+py313-referencing 
+py313-requests 
+py313-resolvelib 
+py313-rich 
+py313-roman 
+py313-roman_numerals 
+py313-rpds-py -universal
+py313-ruamel-yaml 
+py313-ruamel-yaml-clib -universal
+py313-scikit-build-core 
+py313-semantic_version 
+py313-setuptools 
+py313-setuptools_scm 
+py313-setuptools_scm_git_archive 
+py313-setuptools-git-versioning 
+py313-setuptools-rust 
+py313-six 
+py313-snowballstemmer 
+py313-sphinx 
+py313-types-pyyaml -universal
+py313-virtualenv 
+py314-types-pyyaml -universal
+python313 +optimizations-dtrace-universal
+qemu +curl+vde
+qrencode -debug-universal
+rclone 
+ruby33 +gmp+jemalloc-doc
+ruff -universal
+rust 
+shellcheck 
+shfmt 
+speedtest-cli 
+spice-server -universal
+subversion -universal
+tcl +threads-dtrace-memdebug-universal
+tesseract-osd 
+texlive-bin -universal-x11
+texlive-bin-extra -doc
+texlive-fonts-recommended -doc
+texlive-fontutils -doc
+texlive-latex -doc
+texlive-latex-extra -doc
+texlive-latex-recommended -doc
+texlive-math-science -doc
+texlive-xetex -doc
+tk-quartz -universal
+tmux -universal
+tmux-pasteboard -universal
+urlview -universal
+uv -universal
+vim +lua+perl+python313+ruby33+tcl-python27-python310-python311-ruby30-ruby31-ruby32-universal-x11
+w3m -universal
+watch -universal
+wget +ssl-universal
+wireguard-tools 
+xorriso -universal
+yamllint 
+yubikey-manager 
+zip -universal
+zstd 
